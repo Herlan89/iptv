@@ -2649,11 +2649,11 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 
 ---------BEIN YACINE---------
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19729619_ico.png?ts=1655034371" group-title="INDONESIA",BEIN SPORT EXTRA
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19729619_ico.png?ts=1655034371" group-title="BEIN YACINE",BEIN SPORT EXTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8?id=migitv&m=1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="INDONESIA",BEIN 1 PREMIUM AR
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="BEIN YACINE",BEIN 1 PREMIUM AR
 http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94498.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="INDONESIA",BEIN 2 PREMIUM AR
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="BEIN YACINE",BEIN 2 PREMIUM AR
 http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94494.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1655148882" group-title="INDONESIA",BEIN 3 PREMIUM AR
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1655148882" group-title="BEIN YACINE",BEIN 3 PREMIUM AR
 http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94490.m3u8
